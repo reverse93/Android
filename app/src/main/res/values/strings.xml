@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PopularMovie</string>
+    <string name="findPos"> Find the best movie</string>
+    <string name="title_activity_detail_movie">DetailMovie</string>
+</resources>
